@@ -1,5 +1,4 @@
-#EXTM3U
-#PLAYLIST:hlscat.com
+#EXTM3U x-tvg-url="http://i.mjh.nz/nzau/epg.xml.gz"
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" group-title="Undefined",TRT 1 HD
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" group-title="Undefined",TRT HABER HD
