@@ -1,0 +1,44 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 1 HD
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT HABER HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17930?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT BELGESEL HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17938?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT SPOR HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17851?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",A HABER HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17933?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ATV HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18152?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",STAR TV HD
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV 8 HD
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL 7 HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18148?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT COCUK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17917?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",SMART COCUK HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104763?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://185.198.198.68:8000/play/a03p?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",HISTORY HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/199592?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92938?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES FAMILY HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80770?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",MOVIESMART FAMILY HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138865?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",FILMBOX FAMILY
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138912?checkedby:hlscat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",FILM1 FAMILY HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30804?checkedby:hlscat.com
